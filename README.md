@@ -1,3 +1,3 @@
 # openChina
 demo
-My first gitTest.
+My first gitTest at 5:30.
